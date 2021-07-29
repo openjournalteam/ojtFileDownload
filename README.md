@@ -1,4 +1,4 @@
-Bring back old Filenames convention Downloaded Files for OJS 3.3.0
+Bring back old Filenames convention Downloaded Files for OJS 3.3.X
 
 ![content](/images/2021-07-22_14-58.png)
 
