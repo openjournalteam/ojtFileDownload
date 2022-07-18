@@ -16,3 +16,5 @@ After:
 1. Download the [latest release](https://github.com/openjournalteam/ojtFileDownload/releases)
 2. Upload the plugin from the admin dashboard `Website Settings -> Plugins -> Upload a New Plugin` or unpack the archive into the `plugins/generic/` folder.
 3. Activate the plugin from the dashboard.
+
+This plugin is created By [Open Journal Theme](openjournaltheme.com)
